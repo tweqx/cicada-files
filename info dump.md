@@ -29,10 +29,13 @@ FinishMessage = "Reload this page.";
 </body></html>
 ```
 
-Some anons also report that the 845145127.com server had other ports open : FTP, SSH (and "a XMPP client" and "S2S servers")
+Some anons also report that the 845145127.com server had other ports open : FTP, SSH (and "a XMPP client" and "S2S servers").
 The fact that a FTP server existed is confirmed by a recap pastebin from that time : https://pastebin.com/q4s2Jkfe (also found in that thread)
 
 ## Second missing 2012 Seoul poster
 Supposed location of the second 2012 Seoul poster : https://www.youtube.com/watch?v=yUvK-fI0kZU
 
 For context, watch the other videos.
+
+## QR Code for the 2012 Arkansas poster
+The QR Code on the picture isn't readable. arkansas_qr_code.png is an attempt to re-create it manually. It now correctly scans, however `zbarimg` indicate 10 errors. So, my recreation might not be perfect.
