@@ -14,7 +14,7 @@ kogKl.png: http://imgur.com/kogKl
 
 4chan b, Jan 4 2012.png: http://imgur.com/ke78n.jpg
 
-#33012013 logo dicussion.png: https://sebsauvage.net/paste/?a456b916bac28ac6#SMEKletyuycExcKdLn61v9X9NiVMzC9h5kyMNQ4Cig0=
+ #33012013 logo dicussion.png: https://sebsauvage.net/paste/?a456b916bac28ac6#SMEKletyuycExcKdLn61v9X9NiVMzC9h5kyMNQ4Cig0=
 
 reddit codes - Weird code found on 4chan.png: https://www.reddit.com/r/codes/comments/o343d/weird_code_found_on_4chan_maybe_nothing_but_seems/
 
@@ -45,3 +45,7 @@ codepad 845145127.com whitespaces.png: http://codepad.org/DT2DoEeB
 wind answers IRC logs Jan 12.png: https://pastebin.com/JpuVuvRt
 
 comment about tokez-thinkingdeeply.png: https://www.reddit.com/r/hacking/comments/1rf11k/cryptic_internet_scavenger_hunt_has_baffled_cyber/
+
+necrome "Testimonial of Necrome and he's life": https://hackforums.net/showthread.php?tid=5550379
+
+necrome "Thoughts about prison": https://hackforums.net/showthread.php?tid=5109084
