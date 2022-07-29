@@ -1,0 +1,398 @@
+/** IRC channel #33012013subgroupCoders **/
+/* File compiled from Crashdemons' and Lurker69's logs. */
+
+/* UTC, 06 January 2013 */
+T 1357453953 19*	19Now talking on #33012013subgroupCoders
+T 1357453955 19*	19scrounger (~scrounger@65.111.169.199) has joined #33012013subgroupCoders
+T 1357454435 19*	19Now talking on #33012013subgroupCoders
+T 1357454436 18<22leakshmskill_>	yep
+T 1357454447 19*	19Lurker69 (~chatzilla@unaffiliated/lurker69) has joined #33012013subgroupCoders
+T 1357454454 18<22leakshmskill_>	doesn't mean I understand things, I just report stuff
+T 1357454458 18<25Anon404_>	sure
+T 1357454460 18<22leakshmskill_>	mainly our lack of understanding
+T 1357454522 18<22leakshmskill_>	I say we focus on the twitter
+T 1357454544 18<24bakpak2hvy>	^
+T 1357454563 18<22Lurker69>	morning gents
+T 1357454572 18<22leakshmskill_>	does someone have a link to the twitter?
+T 1357454577 18<22lolxD>	we crack the twitter, rite?
+T 1357454624 18<22lolxD>	https://twitter.com/1231507051321
+T 1357454635 18<22lolxD>	OP can you set the topic to be >>cracking https://twitter.com/1231507051321<< or something?
+T 1357454636 18<22leakshmskill_>	thank you
+T 1357454693 23*	23nadando (23~nadando@ip24-255-30-187.tc.ph.cox.net) has left #33012013subgroupCoders
+T 1357454729 18<22leakshmskill_>	0000000: b69ccce300104a464802545959580001008d0000ff8b6131616a6a632737293d3e322b3b3e3f263a203c0c4762677c326767713d73716d697b6e3000505b494e47 
+/* UTC+1 */
+[2013-01-06 07:45:55] [INFO] Now logging to <file:///C:/Documents%20and%20Settings/Administrator/Desktop/UMBRA%20USB/logs/freenode/channels/%2333012013subgroupCoders.2013-01-06.log>.
+[2013-01-06 07:45:56] <leakshmskill_> 0000082: 5a5712565b445b5c5b464b12455b465a5b5c12535c5612575f5740559aee54585c314a02561601220056796423586f8cb0616d20456c607366646f626454504531 
+[2013-01-06 07:46:01] <leakshmskill_> 00000c3: 0000000501020337363636f7f2ba6fffc400b5100002010303020403050504040000017d01020300041105122131414f7d370e0722711b3281895d081e70afc117 
+[2013-01-06 07:46:06] <leakshmskill_> 0000104: 57d6fa283c736695101608363b3f320e08171b1c120e0876757d7e700f0b1412101115143237333f3c362929161c1f1be7eaecedf9f8fae4e3efe0e61d2526202e 
+[2013-01-06 07:46:12] <leakshmskill_> 0000145: 23273a21262c2f2b575a5c5d686f6b7772707175745350525c5d59484a4f3a3839c5c6c7f1858b9f96e7fbefefaad860e1e2e3e4e5e6e7e8dd2ad5f533b9f5f637 
+[2013-01-06 07:46:15] <leakshmskill_> first 5 tweets
+[2013-01-06 07:46:45] <lolxD> http://www.yellowpipe.com/yis/tools/encrypter/index.php << hex->binary helper
+[2013-01-06 07:47:00] <Anon404_> The header (first 7 chars) if translated in numbers get : 0, 65, 130, 195 and so on.
+[2013-01-06 07:47:17] <leakshmskill_> alright
+[2013-01-06 07:47:23] <leakshmskill_> it isn't hex
+[2013-01-06 07:47:32] <leakshmskill_> unless that jibberish meant something to someone
+[2013-01-06 07:47:53] <Anon404_> no but it only contains numbers 0-9 and a-f, just like hex
+[2013-01-06 07:48:05] <Anon404_> it can be a series of numbers, but it is not text
+[2013-01-06 07:48:39] <lolxD> caesar is no good
+[2013-01-06 07:48:42] <leakshmskill_> well, does this make any sense to you?
+[2013-01-06 07:48:44] <leakshmskill_> ���iÌÎ0¤d�%E����Ð�ø¶¦¦2sr�Óã"³³ãòc¢ÀÄv&wÃ&vw×7Ö�¶ã�´�ä
+[2013-01-06 07:48:54] -->| scrounge2 (~scrounger@65.111.169.199) has joined #33012013subgroupCoders
+[2013-01-06 07:51:07] -->| Anon404__ (b8a3ed56@gateway/web/freenode/ip.184.163.237.86) has joined #33012013subgroupCoders
+[2013-01-06 07:51:26] <Anon404__> Sry lost connection
+[2013-01-06 07:51:36] <leakshmskill_> that's cool
+[2013-01-06 07:51:50] <leakshmskill_> is there anything we can do with the twitter post?
+[2013-01-06 07:51:52] <lolxD> do you guys really work on this?
+[2013-01-06 07:51:55] <Anon404__> I tried to convert a whole message to a number, it crashed
+[2013-01-06 07:52:05] <leakshmskill_> hex translations make gibberish
+[2013-01-06 07:52:08] <lolxD> I think I make a mistake with my caesar decoder
+[2013-01-06 07:52:09] |<-- scrounger has left freenode (Ping timeout: 260 seconds)
+[2013-01-06 07:52:22] |<-- Anon404_ has left freenode (Ping timeout: 245 seconds)
+[2013-01-06 07:52:53] <Anon404__> How many messages are expected from the twitter account, someone calculated this earlier
+[2013-01-06 07:53:12] <bakpak2hvy> it was 464 or something
+[2013-01-06 07:53:16] <bakpak2hvy> dont remember exactly
+[2013-01-06 07:53:28] <bakpak2hvy> it was the number of primes from the boot sequence
+[2013-01-06 07:53:53] <leakshmskill_> it is at 260 or so
+[2013-01-06 07:54:02] <leakshmskill_> 264
+[2013-01-06 07:54:17] <bakpak2hvy> 266
+[2013-01-06 07:54:29] <lolxD> guys, is "A" and "a" makes difference on hex code?
+[2013-01-06 07:54:39] <bakpak2hvy> i think so
+[2013-01-06 07:54:44] <lolxD> or the hex only use the "a" ?
+[2013-01-06 07:54:57] =-= scrounge2 is now known as scrounger
+[2013-01-06 07:55:42] <bakpak2hvy> fuck idk
+[2013-01-06 07:56:11] <Anon404__> hex=base 16, upper/lower have no importance to my understanding (Im learning on the spot)
+[2013-01-06 07:56:39] <crash_demons> correct
+[2013-01-06 07:57:13] <leakshmskill_> is there anything significant about the name of the account?
+[2013-01-06 07:58:11] <scrounger> no difference in capitalization in hex
+[2013-01-06 07:58:12] <scrounger> hex is just base 16...
+[2013-01-06 07:58:33] <leakshmskill_> anyone know html?
+[2013-01-06 07:58:40] <leakshmskill_> last words of wisdom from rrr
+[2013-01-06 07:58:42] <leakshmskill_> the tweets can be converted from hex to binary. When coded from binary to normal text they produce html codes. w/e you do with them, your call
+[2013-01-06 07:59:57] -->| scrounge2 (~scrounger@65.111.169.199) has joined #33012013subgroupCoders
+[2013-01-06 08:01:35] |<-- scrounger has left freenode (Disconnected by services)
+[2013-01-06 08:01:40] =-= scrounge2 is now known as scrounger
+[2013-01-06 08:02:19] <leakshmskill_> anyone good with html?
+[2013-01-06 08:02:49] <lolxD> T=_Š÷
+[2013-01-06 08:03:03] <lolxD> I don't think it's html
+[2013-01-06 08:03:18] <lolxD> www.w3schools.com
+[2013-01-06 08:03:28] <bakpak2hvy> im good at html
+[2013-01-06 08:03:37] <lolxD> html is just a tag language, such as <p> </p>, etc etc
+[2013-01-06 08:03:38] <bakpak2hvy> i can write it and interpret it, anyway
+[2013-01-06 08:03:54] <bakpak2hvy> i thought myself html when i was 11, its easy 
+[2013-01-06 08:04:10] <Anon404__> ^^lolxD is right
+[2013-01-06 08:04:16] <lolxD> well try it then
+[2013-01-06 08:04:52] <Anon404__> special characters have weird codes though
+[2013-01-06 08:05:00] <lolxD> I'm stuck with my caesar encoder, so I think it was waste of time, since lower/upper won't make a difference
+[2013-01-06 08:05:19] =-= lolxD is now known as normaldude
+[2013-01-06 08:05:50] =-= normaldude is now known as nrmdudeAFK
+[2013-01-06 08:06:15] <leakshmskill_> I'm going to take a break, mention me if something comes up, I have fucking trig homework to do
+[2013-01-06 08:07:53] -->| guest_____ (6e21da74@gateway/web/freenode/ip.110.33.218.116) has joined #33012013subgroupCoders
+[2013-01-06 08:12:03] -->| Anon404 (b8a3ed56@gateway/web/freenode/ip.184.163.237.86) has joined #33012013subgroupCoders
+[2013-01-06 08:12:31] |<-- leakshmskill_ has left freenode (Quit: Page closed)
+[2013-01-06 08:15:17] |<-- Anon404__ has left freenode (Ping timeout: 245 seconds)
+[2013-01-06 08:21:01] -->| Kenodox (4591f684@gateway/web/freenode/ip.69.145.246.132) has joined #33012013subgroupCoders
+[2013-01-06 08:21:15] -->| n_factor (~n_factor@110.138.208.116) has joined #33012013subgroupCoders
+[2013-01-06 08:21:29] <n_factor> n = n + 1 : goto 10
+[2013-01-06 08:21:30] <n_factor> run
+[2013-01-06 08:21:57] -->| iIIustrious (~iIIustrio@unaffiliated/iiiustrious) has joined #33012013subgroupCoders
+[2013-01-06 08:23:48] -->| bthemightyb (46145a29@gateway/web/freenode/ip.70.20.90.41) has joined #33012013subgroupCoders
+[2013-01-06 08:23:51] <Anon404> n=n+1?
+[2013-01-06 08:26:01] =-= nrmdudeAFK is now known as lolxD
+[2013-01-06 08:26:14] <lolxD> I'm back
+[2013-01-06 08:26:34] <lolxD> sup' Anon404 ?
+[2013-01-06 08:26:46] <Anon404> hi
+[2013-01-06 08:30:50] <lolxD> is this subgroup dead?
+[2013-01-06 08:32:27] <Kenodox> it was never really alive
+[2013-01-06 08:32:36] <Kenodox> try #3301hackers
+[2013-01-06 08:33:15] <lolxD> they stucked too, I think
+[2013-01-06 08:33:53] <Kenodox> i think that it is because it takes so long to figure codes out, so they are all working, not posting the results becuase tehre are none yet
+[2013-01-06 08:34:23] <Anon404> I am going to tell you which numbers in the Mertens function give 0 and are prime
+[2013-01-06 08:37:17] |<-- bakpak2hvy has left freenode (Quit: Lost terminal)
+[2013-01-06 08:40:27] <Anon404> 2, 101, 149, 163, 331, 353, 401, 419
+[2013-01-06 08:41:12] <Anon404> I don't know if that means anything though
+[2013-01-06 08:43:08] <lolxD> why would you start on Mertens function ?
+[2013-01-06 08:43:20] <Kenodox> Has any of you guys made any progress? 
+[2013-01-06 08:45:17] <lolxD> stucked
+[2013-01-06 08:45:42] <lolxD> but I believe the tweet are double encrypted
+[2013-01-06 08:48:33] <Anon404> I chose the Mertens function since one of the few specifics wikipedia had to say about 65 was that it returned 0 if used in the Mertens function, I then googled all numbers who return 0 through this function and kept only the primes since another clue was showing a list of prime numbers
+[2013-01-06 08:54:52] |<-- Anon404 has left freenode (Ping timeout: 245 seconds)
+[2013-01-06 09:04:23] -->| Anon404 (b8a3ed56@gateway/web/freenode/ip.184.163.237.86) has joined #33012013subgroupCoders
+[2013-01-06 09:05:23] -->| Anon404_ (b8a3ed56@gateway/web/freenode/ip.184.163.237.86) has joined #33012013subgroupCoders
+[2013-01-06 09:05:33] |<-- Anon404 has left freenode (Client Quit)
+[2013-01-06 09:08:34] |<-- n_factor has left freenode (Ping timeout: 260 seconds)
+[2013-01-06 09:17:44] |<-- Anon404_ has left freenode (Quit: Page closed)
+[2013-01-06 09:19:07] <lolxD> this subgroup, officially become a cemetare
+[2013-01-06 09:22:47] |<-- bthemightyb has left freenode (Ping timeout: 245 seconds)
+[2013-01-06 10:03:48] -->| bak|afk (~jacob@ip24-254-164-63.rn.hr.cox.net) has joined #33012013subgroupCoders
+[2013-01-06 10:12:00] -->| absolutezeroff (~ejs@d172-218-127-186.bchsia.telus.net) has joined #33012013subgroupCoders
+[2013-01-06 10:18:49] |<-- guest_____ has left freenode (Quit: Page closed)
+[2013-01-06 10:33:08] =-= lolxD is now known as [AFK]lolxD
+[2013-01-06 10:38:34] <--| Kenodox has left #33012013subgroupCoders
+[2013-01-06 10:42:28] -->| Daomos (5ac583ba@gateway/web/freenode/ip.90.197.131.186) has joined #33012013subgroupCoders
+[2013-01-06 10:42:35] |<-- Daomos has left freenode (Quit: Page closed)
+[2013-01-06 10:46:31] =-= iIIustrious is now known as iII|out
+[2013-01-06 11:17:48] -->| Lesmo (~Lesmo@189.232.116.30) has joined #33012013subgroupCoders
+[2013-01-06 11:19:10] -->| alexanderthegrea (6cb5c8cc@gateway/web/freenode/ip.108.181.200.204) has joined #33012013subgroupCoders
+[2013-01-06 11:19:52] <--| alexanderthegrea has left #33012013subgroupCoders
+[2013-01-06 11:25:39] -->| Anon2595 (7e1c4313@gateway/web/freenode/ip.126.28.67.19) has joined #33012013subgroupCoders
+[2013-01-06 11:45:33] |<-- Lesmo has left freenode (Ping timeout: 276 seconds)
+[2013-01-06 11:48:25] -->| scrounge2 (~scrounger@c-75-74-64-17.hsd1.fl.comcast.net) has joined #33012013subgroupCoders
+[2013-01-06 11:49:52] -->| lull (5b995416@gateway/web/freenode/ip.91.153.84.22) has joined #33012013subgroupCoders
+[2013-01-06 11:51:55] |<-- scrounger has left freenode (Ping timeout: 260 seconds)
+[2013-01-06 11:53:38] |<-- mercurial has left freenode (Ping timeout: 245 seconds)
+[2013-01-06 11:56:08] =-= bak|afk is now known as bakpak2hvy
+[2013-01-06 11:56:09] |<-- Anon2595 has left freenode (Ping timeout: 245 seconds)
+[2013-01-06 11:58:09] -->| Anon2595 (7e1c4313@gateway/web/freenode/ip.126.28.67.19) has joined #33012013subgroupCoders
+[2013-01-06 12:17:23] =-= [AFK]lolxD is now known as lolxD
+[2013-01-06 12:49:04] |<-- lolxD has left freenode (Ping timeout: 245 seconds)
+[2013-01-06 12:54:29] |<-- lull has left freenode (Ping timeout: 245 seconds)
+[2013-01-06 12:54:34] =-= bakpak2hvy is now known as bak|zzz
+[2013-01-06 13:34:39] =-= scrounge2 is now known as scrounger
+[2013-01-06 13:39:04] -->| lull (5b995416@gateway/web/freenode/ip.91.153.84.22) has joined #33012013subgroupCoders
+[2013-01-06 13:39:05] -->| gentoomen (3aa1a415@gateway/web/freenode/ip.58.161.164.21) has joined #33012013subgroupCoders
+[2013-01-06 15:43:39] |<-- crash_demons has left freenode (Quit: *.net *.split ... just kidding)
+[2013-01-06 15:48:38] -->| CheeseFingers (~sd87sd4@195-240-24-250.ip.telfort.nl) has joined #33012013subgroupCoders
+[2013-01-06 16:08:49] |<-- Anon2595 has left freenode (Quit: Page closed)
+[2013-01-06 17:32:22] -->| NikTitanik (4e00dca7@gateway/web/freenode/ip.78.0.220.167) has joined #33012013subgroupCoders
+[2013-01-06 17:59:43] -->| fasd (4bb962a6@gateway/web/freenode/ip.75.185.98.166) has joined #33012013subgroupCoders
+[2013-01-06 18:05:28] |<-- lull has left freenode (Quit: Page closed)
+[2013-01-06 18:10:33] -->| pr0 (4232953c@gateway/web/freenode/ip.66.50.149.60) has joined #33012013subgroupCoders
+[2013-01-06 18:15:59] -->| lulzorz (~dimitri@gateway/tor-sasl/lulzorz) has joined #33012013subgroupCoders
+[2013-01-06 18:16:11] <--| lulzorz has left #33012013subgroupCoders
+[2013-01-06 18:19:03] -->| Cuboid3301 (183c4ccb@gateway/web/freenode/ip.24.60.76.203) has joined #33012013subgroupCoders
+[2013-01-06 18:26:23] |<-- bak|zzz has left freenode (Ping timeout: 260 seconds)
+[2013-01-06 18:28:36] <--| Cuboid3301 has left #33012013subgroupCoders
+[2013-01-06 19:11:27] -->| Choncho (a46bea6b@gateway/web/freenode/ip.164.107.234.107) has joined #33012013subgroupCoders
+[2013-01-06 19:11:48] <--| Choncho has left #33012013subgroupCoders
+[2013-01-06 19:28:54] =-= CheeseFingers is now known as Cheese|busy
+[2013-01-06 19:35:50] -->| Lesmo (~Lesmo@189.232.116.30) has joined #33012013subgroupCoders
+[2013-01-06 19:40:10] <Lesmo> Hello? Anyone there? Any news on Twitter thing? It stopped tweeting about 4 hours ago.
+[2013-01-06 19:42:16] <Lesmo> Ah no, was just me. Nevermind.
+[2013-01-06 20:02:52] -->| bak|zzz (~jacob@ip24-254-173-28.rn.hr.cox.net) has joined #33012013subgroupCoders
+[2013-01-06 20:02:58] =-= bak|zzz is now known as bakpak2hvy
+[2013-01-06 20:12:20] -->| lull_ (5b995416@gateway/web/freenode/ip.91.153.84.22) has joined #33012013subgroupCoders
+[2013-01-06 20:12:43] -->| sephiap (~Mork@central.aber.ac.uk) has joined #33012013subgroupCoders
+[2013-01-06 20:17:00] |<-- pr0 has left freenode (Ping timeout: 245 seconds)
+[2013-01-06 20:23:26] -->| n_factor (~n_factor@110.138.208.116) has joined #33012013subgroupCoders
+[2013-01-06 20:31:38] -->| mercurial_ (8e97a412@gateway/web/freenode/ip.142.151.164.18) has joined #33012013subgroupCoders
+[2013-01-06 20:35:06] |<-- mercurial_ has left freenode (Client Quit)
+[2013-01-06 20:42:38] -->| wasond (bea4e2b4@gateway/web/freenode/ip.190.164.226.180) has joined #33012013subgroupCoders
+[2013-01-06 20:55:19] -->| leakhmskill (4cd8943b@gateway/web/freenode/ip.76.216.148.59) has joined #33012013subgroupCoders
+[2013-01-06 20:56:11] |<-- n_factor has left freenode (Ping timeout: 260 seconds)
+[2013-01-06 20:58:08] =-= bakpak2hvy is now known as bak|afk
+[2013-01-06 21:19:22] <--| wasond has left #33012013subgroupCoders
+[2013-01-06 21:28:49] |<-- lull_ has left freenode (Quit: Page closed)
+[2013-01-06 21:56:06] |<-- leakhmskill has left freenode (Quit: Page closed)
+[2013-01-06 22:04:08] -->| pr0 (42329502@gateway/web/freenode/ip.66.50.149.2) has joined #33012013subgroupCoders
+[2013-01-06 22:12:16] |<-- bak|afk has left freenode (Ping timeout: 272 seconds)
+[2013-01-06 22:12:31] -->| bak|afk (~jacob@ip24-254-173-28.rn.hr.cox.net) has joined #33012013subgroupCoders
+[2013-01-06 22:15:09] |<-- fasd has left freenode (Quit: Page closed)
+[2013-01-06 22:43:04] =-= bak|afk is now known as bakpak2hvy
+[2013-01-06 23:07:19] [ERROR] Connection to irc://freenode/ (ircs://irc.freenode.net:7000/) reset. [[Help][Get more information about this error online][faq connection.reset]]
+[2013-01-06 23:08:15] -->| YOU (Lurker69) have joined #33012013subgroupCoders
+[2013-01-06 23:17:01] |<-- pr0 has left freenode (Ping timeout: 245 seconds)
+[2013-01-06 23:30:46] |<-- NikTitanik has left freenode (Ping timeout: 245 seconds)
+[2013-01-06 23:47:41] =-= Cheese|busy is now known as CheeseFingers
+/* 07 January 2013 */
+[2013-01-07 00:31:04] =-= bakpak2hvy is now known as bak|afk
+[2013-01-07 00:31:42] -->| fasd (4bb962a6@gateway/web/freenode/ip.75.185.98.166) has joined #33012013subgroupCoders
+[2013-01-07 00:37:16] |<-- CheeseFingers has left freenode (Quit: Leaving)
+[2013-01-07 00:38:56] -->| rb9269 (b0fb4b0d@gateway/web/freenode/ip.176.251.75.13) has joined #33012013subgroupCoders
+[2013-01-07 00:39:38] |<-- fasd has left freenode (Quit: Page closed)
+[2013-01-07 00:40:29] -->| wasond (bea4e2b4@gateway/web/freenode/ip.190.164.226.180) has joined #33012013subgroupCoders
+[2013-01-07 00:48:19] |<-- wasond has left freenode (Ping timeout: 245 seconds)
+[2013-01-07 00:51:27] <--| rb9269 has left #33012013subgroupCoders
+[2013-01-07 01:10:26] |<-- gentoomen has left freenode (Ping timeout: 245 seconds)
+[2013-01-07 01:12:06] =-= bak|afk is now known as bakpak2hvy
+[2013-01-07 01:28:54] -->| mercurial_ (8e97a412@gateway/web/freenode/ip.142.151.164.18) has joined #33012013subgroupCoders
+[2013-01-07 01:29:23] <bakpak2hvy> this chan is dead
+[2013-01-07 01:29:39] <Lurker69> will be better
+[2013-01-07 01:30:07] <bakpak2hvy> maybe
+[2013-01-07 01:32:51] -->| Absence_ (59f8a18f@gateway/web/freenode/ip.89.248.161.143) has joined #33012013subgroupCoders
+[2013-01-07 01:37:09] -->| guest_____ (6e21da74@gateway/web/freenode/ip.110.33.218.116) has joined #33012013subgroupCoders
+[2013-01-07 01:37:13] -->| jayded1 (~jason@50.40.168.41) has joined #33012013subgroupCoders
+[2013-01-07 01:40:20] -->| gentoomen (3aa1a415@gateway/web/freenode/ip.58.161.164.21) has joined #33012013subgroupCoders
+[2013-01-07 01:54:15] |<-- iII|out has left freenode (Ping timeout: 255 seconds)
+[2013-01-07 01:56:42] -->| iIIustrious_ (~iIIustrio@S01061859333f957f.ed.shawcable.net) has joined #33012013subgroupCoders
+[2013-01-07 01:57:48] -->| Kenodox (4591f684@gateway/web/freenode/ip.69.145.246.132) has joined #33012013subgroupCoders
+[2013-01-07 02:01:15] -->| pr0 (42329502@gateway/web/freenode/ip.66.50.149.2) has joined #33012013subgroupCoders
+[2013-01-07 02:03:13] |<-- Kenodox has left freenode (Quit: Page closed)
+[2013-01-07 02:21:23] =-= bakpak2hvy is now known as allah
+[2013-01-07 02:21:35] =-= allah is now known as bakpak2hvy
+[2013-01-07 02:21:41] =-= bakpak2hvy is now known as BlackJesus
+[2013-01-07 02:21:49] =-= pr0 is now known as Satan
+[2013-01-07 02:22:20] =-= Satan is now known as Guest3181
+[2013-01-07 02:30:10] -->| Kenodox (4591f684@gateway/web/freenode/ip.69.145.246.132) has joined #33012013subgroupCoders
+[2013-01-07 02:34:49] -->| God (516c8bba@gateway/web/freenode/ip.81.108.139.186) has joined #33012013subgroupCoders
+[2013-01-07 02:35:11] |<-- God has left freenode (Quit: Page closed)
+[2013-01-07 02:48:37] =-= BlackJesus is now known as bak|afk
+[2013-01-07 03:06:37] |<-- Lesmo has left freenode (Ping timeout: 255 seconds)
+[2013-01-07 03:12:55] |<-- Guest3181 has left freenode (Ping timeout: 245 seconds)
+[2013-01-07 03:16:01] -->| pr0 (42329502@gateway/web/freenode/ip.66.50.149.2) has joined #33012013subgroupCoders
+[2013-01-07 03:18:51] <--| Kenodox has left #33012013subgroupCoders
+[2013-01-07 04:15:31] -->| leakhmskill (4cd8943b@gateway/web/freenode/ip.76.216.148.59) has joined #33012013subgroupCoders
+[2013-01-07 04:57:44] =-= bak|afk is now known as bakpak2hvy
+[2013-01-07 05:16:41] [ERROR] Connection to irc://freenode/ (ircs://irc.freenode.net:7000/) reset. [[Help][Get more information about this error online][faq connection.reset]]
+[2013-01-07 05:17:38] -->| YOU (Lurker69_) have joined #33012013subgroupCoders
+[2013-01-07 05:17:38] === [freenode-info] channel trolls and no channel staff around to help? please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+[2013-01-07 05:21:07] |<-- Lurker69 has left freenode (Ping timeout: 272 seconds)
+[2013-01-07 05:21:09] =-= YOU are now known as Lurker69
+[2013-01-07 05:37:55] |<-- leakhmskill has left freenode (Ping timeout: 245 seconds)
+[2013-01-07 05:40:57] -->| lulzorz (~dimitri@gateway/tor-sasl/lulzorz) has joined #33012013subgroupCoders
+[2013-01-07 05:47:37] |<-- scrounger has left freenode (Ping timeout: 240 seconds)
+[2013-01-07 06:07:59] <--| lulzorz has left #33012013subgroupCoders
+[2013-01-07 06:15:13] -->| n_factor (~n_factor@110.138.208.116) has joined #33012013subgroupCoders
+[2013-01-07 06:15:16] =-= bakpak2hvy is now known as bak|sleep
+[2013-01-07 06:18:25] |<-- mercurial_ has left freenode (Quit: Page closed)
+[2013-01-07 06:23:28] -->| Lesmo (~Lesmo@189.232.116.30) has joined #33012013subgroupCoders
+[2013-01-07 06:52:03] |<-- n_factor has left freenode (Remote host closed the connection)
+[2013-01-07 06:52:44] -->| n_factor (~n_factor@110.138.208.116) has joined #33012013subgroupCoders
+[2013-01-07 07:21:51] |<-- Lesmo has left freenode (Ping timeout: 252 seconds)
+[2013-01-07 07:29:02] -->| soulseekah (~soulseeka@unaffiliated/soulseekah) has joined #33012013subgroupCoders
+[2013-01-07 07:29:40] -->| Flumentia (7ca8bfb5@gateway/web/freenode/ip.124.168.191.181) has joined #33012013subgroupCoders
+[2013-01-07 07:29:45] -->| Angel_ (be25cfa0@gateway/web/freenode/ip.190.37.207.160) has joined #33012013subgroupCoders
+[2013-01-07 07:29:49] -->| JohnFrom4chan (6028af3c@gateway/web/freenode/ip.96.40.175.60) has joined #33012013subgroupCoders
+[2013-01-07 07:29:55] <--| JohnFrom4chan has left #33012013subgroupCoders
+[2013-01-07 07:30:13] <--| Angel_ has left #33012013subgroupCoders
+[2013-01-07 07:30:22] -->| alexanderthegrea (6cb5c8cc@gateway/web/freenode/ip.108.181.200.204) has joined #33012013subgroupCoders
+[2013-01-07 07:36:01] |<-- n_factor has left freenode (Ping timeout: 272 seconds)
+[2013-01-07 07:36:02] -->| Angel_ (be25cfa0@gateway/web/freenode/ip.190.37.207.160) has joined #33012013subgroupCoders
+[2013-01-07 07:36:28] -->| n_factor (~n_factor@110.138.208.116) has joined #33012013subgroupCoders
+[2013-01-07 07:41:07] -->| Lesmo (~Lesmo@189.232.116.30) has joined #33012013subgroupCoders
+[2013-01-07 07:53:50] |<-- n_factor has left freenode (Remote host closed the connection)
+[2013-01-07 07:55:27] -->| n_factor (~n_factor@110.138.208.116) has joined #33012013subgroupCoders
+[2013-01-07 08:09:08] =-= iIIustrious_ is now known as iIIustrious
+[2013-01-07 08:09:38] =-= iIIustrious is now known as Guest2013
+[2013-01-07 08:10:01] |<-- pr0 has left freenode (Ping timeout: 245 seconds)
+[2013-01-07 08:11:43] =-= Guest2013 is now known as iIIustrious
+[2013-01-07 08:11:48] |<-- iIIustrious has left freenode (Changing host)
+[2013-01-07 08:11:48] -->| iIIustrious (~iIIustrio@unaffiliated/iiiustrious) has joined #33012013subgroupCoders
+[2013-01-07 08:17:43] |<-- Angel_ has left freenode (Quit: Page closed)
+[2013-01-07 08:31:04] -->| mercurial_ (8e97a412@gateway/web/freenode/ip.142.151.164.18) has joined #33012013subgroupCoders
+[2013-01-07 08:33:52] |<-- absolutezeroff has left freenode (Read error: Operation timed out)
+[2013-01-07 08:44:54] |<-- alexanderthegrea has left freenode (Quit: Page closed)
+[2013-01-07 08:48:19] -->| absolutezeroff (~ejs@d172-218-127-186.bchsia.telus.net) has joined #33012013subgroupCoders
+[2013-01-07 08:49:38] -->| Anon2595 (7e1c4313@gateway/web/freenode/ip.126.28.67.19) has joined #33012013subgroupCoders
+[2013-01-07 08:58:16] -->| lull (5b995416@gateway/web/freenode/ip.91.153.84.22) has joined #33012013subgroupCoders
+[2013-01-07 09:13:20] |<-- Lesmo has left freenode (Ping timeout: 276 seconds)
+[2013-01-07 09:16:08] |<-- Flumentia has left freenode (Quit: Too cool for this)
+[2013-01-07 09:18:53] |<-- gentoomen has left freenode (Quit: Page closed)
+[2013-01-07 09:29:36] |<-- mercurial_ has left freenode (Ping timeout: 245 seconds)
+[2013-01-07 09:30:04] -->| lolxD (cb4e7bf3@gateway/web/freenode/ip.203.78.123.243) has joined #33012013subgroupCoders
+[2013-01-07 09:31:33] -->| immortalghost (76d03760@gateway/web/freenode/ip.118.208.55.96) has joined #33012013subgroupCoders
+[2013-01-07 09:31:37] <--| immortalghost has left #33012013subgroupCoders
+[2013-01-07 09:34:04] |<-- lull has left freenode (Quit: Page closed)
+[2013-01-07 10:17:56] |<-- lolxD has left freenode (Ping timeout: 245 seconds)
+[2013-01-07 10:58:14] -->| ccdvdv (d427222c@gateway/web/freenode/ip.212.39.34.44) has joined #33012013subgroupCoders
+[2013-01-07 11:23:59] |<-- absolutezeroff has left freenode (Ping timeout: 276 seconds)
+[2013-01-07 11:38:09] <--| jayded1 has left #33012013subgroupCoders ("Leaving")
+[2013-01-07 11:41:34] -->| absolutezeroff (~ejs@d172-218-127-186.bchsia.telus.net) has joined #33012013subgroupCoders
+[2013-01-07 11:53:30] <--| guest_____ has left #33012013subgroupCoders
+[2013-01-07 12:05:41] -->| Cheese|busy (568932@ip4daabd6c.direct-adsl.nl) has joined #33012013subgroupCoders
+[2013-01-07 12:06:04] |<-- n_factor has left freenode (Ping timeout: 246 seconds)
+[2013-01-07 12:07:48] -->| n_factor (~n_factor@110.138.208.116) has joined #33012013subgroupCoders
+[2013-01-07 12:42:13] |<-- n_factor has left freenode (Read error: Connection reset by peer)
+[2013-01-07 12:42:26] -->| n_factor (~n_factor@110.138.208.116) has joined #33012013subgroupCoders
+[2013-01-07 12:45:24] |<-- n_factor has left freenode (Remote host closed the connection)
+[2013-01-07 12:45:58] -->| n_factor (~n_factor@110.138.208.116) has joined #33012013subgroupCoders
+[2013-01-07 13:14:12] =-= Cheese|busy is now known as CheeseFingers
+[2013-01-07 13:45:37] |<-- absolutezeroff has left freenode (Ping timeout: 240 seconds)
+[2013-01-07 13:49:36] =-= iIIustrious is now known as iII|out
+[2013-01-07 13:51:06] |<-- n_factor has left freenode (Remote host closed the connection)
+[2013-01-07 13:51:52] -->| n_factor (~n_factor@110.138.208.116) has joined #33012013subgroupCoders
+[2013-01-07 13:59:24] -->| absolutezeroff (~ejs@d172-218-127-186.bchsia.telus.net) has joined #33012013subgroupCoders
+[2013-01-07 14:54:26] -->| lull (5b995416@gateway/web/freenode/ip.91.153.84.22) has joined #33012013subgroupCoders
+[2013-01-07 15:12:36] |<-- absolutezeroff has left freenode (Ping timeout: 246 seconds)
+[2013-01-07 15:19:28] -->| absolutezeroff (~ejs@d172-218-127-186.bchsia.telus.net) has joined #33012013subgroupCoders
+[2013-01-07 15:35:31] -->| Lesmo (~Lesmo@189.232.116.30) has joined #33012013subgroupCoders
+[2013-01-07 15:51:37] |<-- Lesmo has left freenode (Ping timeout: 240 seconds)
+[2013-01-07 15:55:53] -->| Lesmo (~Lesmo@189.232.116.30) has joined #33012013subgroupCoders
+[2013-01-07 15:56:54] |<-- absolutezeroff has left freenode (Quit: Lost terminal)
+[2013-01-07 16:22:17] |<-- Lesmo has left freenode (Ping timeout: 240 seconds)
+[2013-01-07 16:31:41] |<-- Anon2595 has left freenode (Ping timeout: 245 seconds)
+[2013-01-07 16:33:46] |<-- ccdvdv has left freenode (Ping timeout: 245 seconds)
+[2013-01-07 16:51:05] -->| gentoomen (3aa1a415@gateway/web/freenode/ip.58.161.164.21) has joined #33012013subgroupCoders
+[2013-01-07 16:53:36] |<-- n_factor has left freenode (Remote host closed the connection)
+[2013-01-07 17:36:21] -->| Lesmo (~Lesmo@189.232.116.30) has joined #33012013subgroupCoders
+[2013-01-07 18:07:57] |<-- Lesmo has left freenode (Ping timeout: 240 seconds)
+[2013-01-07 18:08:10] -->| Dons (41310e39@gateway/web/freenode/ip.65.49.14.57) has joined #33012013subgroupCoders
+[2013-01-07 18:08:15] <--| Dons has left #33012013subgroupCoders
+[2013-01-07 18:20:19] -->| Lesmo (~Lesmo@189.232.116.30) has joined #33012013subgroupCoders
+[2013-01-07 18:34:55] |<-- Lesmo has left freenode (Ping timeout: 252 seconds)
+[2013-01-07 18:42:14] |<-- CheeseFingers has left freenode ()
+[2013-01-07 18:43:26] -->| CheeseFingers (568932@ip4daabd6c.direct-adsl.nl) has joined #33012013subgroupCoders
+[2013-01-07 18:49:28] |<-- CheeseFingers has left freenode ()
+[2013-01-07 20:02:03] -->| pr0 (3f87ff3f@gateway/web/freenode/ip.63.135.255.63) has joined #33012013subgroupCoders
+[2013-01-07 20:33:22] -->| Ymgve (~ymgve@38.55.202.84.customer.cdi.no) has joined #33012013subgroupCoders
+[2013-01-07 20:41:37] -->| JackHinds (567e20af@gateway/web/freenode/ip.86.126.32.175) has joined #33012013subgroupCoders
+[2013-01-07 20:41:51] <--| JackHinds has left #33012013subgroupCoders
+[2013-01-07 20:51:15] |<-- pr0 has left freenode (Ping timeout: 245 seconds)
+[2013-01-07 21:14:35] |<-- lull has left freenode (Quit: Page closed)
+[2013-01-07 22:07:13] =-= bak|sleep is now known as bakpak2hvy
+[2013-01-07 22:50:26] |<-- Absence_ has left freenode (Ping timeout: 245 seconds)
+[2013-01-07 23:24:20] =-= iII|out is now known as iIIustrious
+[2013-01-07 23:28:19] =-= bakpak2hvy is now known as bak|out
+[2013-01-07 23:40:05] |<-- bak|out has left freenode (Ping timeout: 264 seconds)
+[2013-01-07 23:51:31] -->| indigo_ (6c06b1f7@gateway/web/freenode/ip.108.6.177.247) has joined #33012013subgroupCoders
+/* 08 January 2013 */
+[2013-01-08 00:15:47] =-= iIIustrious is now known as iII|away
+[2013-01-08 00:46:17] -->| Angel_ (be25e179@gateway/web/freenode/ip.190.37.225.121) has joined #33012013subgroupCoders
+[2013-01-08 00:55:40] |<-- Angel_ has left freenode (Quit: Page closed)
+[2013-01-08 01:17:23] |<-- Ymgve has left freenode ()
+[2013-01-08 02:17:26] -->| debac (6ce75df1@gateway/web/freenode/ip.108.231.93.241) has joined #33012013subgroupCoders
+[2013-01-08 02:18:21] <--| debac has left #33012013subgroupCoders
+[2013-01-08 02:24:35] |<-- indigo_ has left freenode (Ping timeout: 245 seconds)
+[2013-01-08 02:24:36] |<-- gentoomen has left freenode (Ping timeout: 245 seconds)
+[2013-01-08 02:48:32] -->| mercurial_ (8e97a412@gateway/web/freenode/ip.142.151.164.18) has joined #33012013subgroupCoders
+[2013-01-08 02:55:30] -->| indigo_ (6c06b1f7@gateway/web/freenode/ip.108.6.177.247) has joined #33012013subgroupCoders
+[2013-01-08 03:18:45] |<-- mercurial_ has left freenode (Ping timeout: 245 seconds)
+[2013-01-08 03:34:18] -->| pr0 (3f87ff12@gateway/web/freenode/ip.63.135.255.18) has joined #33012013subgroupCoders
+[2013-01-08 03:38:46] |<-- pr0 has left freenode (Ping timeout: 245 seconds)
+[2013-01-08 03:55:31] -->| JackHinds_ (567e20af@gateway/web/freenode/ip.86.126.32.175) has joined #33012013subgroupCoders
+[2013-01-08 04:06:36] <--| JackHinds_ has left #33012013subgroupCoders
+[2013-01-08 04:34:33] -->| nacquiesce (450e21b8@gateway/web/freenode/ip.69.14.33.184) has joined #33012013subgroupCoders
+[2013-01-08 04:35:02] <--| nacquiesce has left #33012013subgroupCoders
+[2013-01-08 04:46:51] -->| pitbull_socks (~baronkel1@unaffiliated/pitbull-socks/x-8713553) has joined #33012013subgroupCoders
+[2013-01-08 04:46:57] <--| pitbull_socks has left #33012013subgroupCoders ("Leaving")
+[2013-01-08 05:16:54] [ERROR] Connection to irc://freenode/ (ircs://irc.freenode.net:7000/) reset. [[Help][Get more information about this error online][faq connection.reset]]
+[2013-01-08 05:17:59] -->| YOU (Lurker69_) have joined #33012013subgroupCoders
+[2013-01-08 05:20:41] |<-- Lurker69 has left freenode (Ping timeout: 240 seconds)
+[2013-01-08 05:20:52] =-= YOU are now known as Lurker69
+[2013-01-08 05:28:33] -->| Grazza (72f1f482@gateway/web/freenode/ip.114.241.244.130) has joined #33012013subgroupCoders
+[2013-01-08 05:34:05] |<-- Choncho has left freenode (Quit: Page closed)
+[2013-01-08 05:41:32] =-= indigo_ is now known as indigo_|Sleep
+[2013-01-08 06:09:05] -->| anon132 (320dc0dd@gateway/web/freenode/ip.50.13.192.221) has joined #33012013subgroupCoders
+[2013-01-08 07:10:48] =-= Grazza is now known as Graz|out
+[2013-01-08 08:09:11] -->| guest___ (dced3407@gateway/web/freenode/ip.220.237.52.7) has joined #33012013subgroupCoders
+[2013-01-08 08:13:55] -->| urururu (83d7dca6@gateway/web/freenode/ip.131.215.220.166) has joined #33012013subgroupCoders
+[2013-01-08 08:20:15] -->| pr0_ (3f87ff12@gateway/web/freenode/ip.63.135.255.18) has joined #33012013subgroupCoders
+[2013-01-08 08:27:45] -->| gentoomen (3aa1a415@gateway/web/freenode/ip.58.161.164.21) has joined #33012013subgroupCoders
+[2013-01-08 08:28:22] -->| JackHinds (567e20af@gateway/web/freenode/ip.86.126.32.175) has joined #33012013subgroupCoders
+[2013-01-08 08:28:24] <--| JackHinds has left #33012013subgroupCoders
+[2013-01-08 08:43:45] |<-- guest___ has left freenode (Ping timeout: 245 seconds)
+[2013-01-08 08:53:35] =-= iII|away is now known as iIIustrious
+[2013-01-08 08:59:04] |<-- urururu has left freenode (Quit: Page closed)
+[2013-01-08 09:31:08] =-= Graz|out is now known as Grazza
+[2013-01-08 09:58:13] |<-- anon132 has left freenode (Quit: Page closed)
+[2013-01-08 10:15:23] |<-- pr0_ has left freenode (Quit: Page closed)
+[2013-01-08 10:15:49] |<-- soulseekah has left freenode (Ping timeout: 272 seconds)
+[2013-01-08 10:19:58] -->| soulseekah (~soulseeka@176.215.207.11) has joined #33012013subgroupCoders
+[2013-01-08 10:20:14] |<-- soulseekah has left freenode (Changing host)
+[2013-01-08 10:20:15] -->| soulseekah (~soulseeka@unaffiliated/soulseekah) has joined #33012013subgroupCoders
+[2013-01-08 11:06:16] =-= iIIustrious is now known as iII|away
+[2013-01-08 11:25:16] -->| lull (5b995416@gateway/web/freenode/ip.91.153.84.22) has joined #33012013subgroupCoders
+[2013-01-08 11:47:30] |<-- gentoomen has left freenode (Ping timeout: 245 seconds)
+[2013-01-08 12:08:21] |<-- lull has left freenode (Quit: Page closed)
+[2013-01-08 13:13:20] -->| NikTitanik (5d8833b5@gateway/web/freenode/ip.93.136.51.181) has joined #33012013subgroupCoders
+[2013-01-08 13:13:24] <--| NikTitanik has left #33012013subgroupCoders
+[2013-01-08 13:26:41] -->| lull (5b995416@gateway/web/freenode/ip.91.153.84.22) has joined #33012013subgroupCoders
+[2013-01-08 15:52:30] |<-- lull has left freenode (Ping timeout: 245 seconds)
+[2013-01-08 16:11:36] -->| lull_ (5b995416@gateway/web/freenode/ip.91.153.84.22) has joined #33012013subgroupCoders
+[2013-01-08 16:13:55] |<-- lull_ has left freenode (Client Quit)
+[2013-01-08 16:50:50] |<-- Grazza has left freenode (Ping timeout: 245 seconds)
+[2013-01-08 17:29:08] -->| Guest93721 (47a3fa48@gateway/web/freenode/ip.71.163.250.72) has joined #33012013subgroupCoders
+[2013-01-08 20:11:20] =-= iII|away is now known as iIIustrious
+[2013-01-08 22:29:03] =-= indigo_|Sleep is now known as indigo_
+[2013-01-08 22:42:57] =-= indigo_ is now known as indigo_|Food
+[2013-01-08 23:37:11] =-= indigo_|Food is now known as indigo_
+

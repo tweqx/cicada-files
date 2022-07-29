@@ -1,0 +1,189 @@
+/** IRC channel #3301riddle **/
+/* File compiled from Lurker69's logs. */
+
+/* UTC+1, 05 January 2013 */
+[2013-01-05 08:45:51] [INFO] Now logging to <file:///C:/Documents%20and%20Settings/Administrator/Desktop/UMBRA%20USB/logs/freenode/channels/%233301riddle.2013-01-05.log>.
+[2013-01-05 08:46:19] <Lurker69> [08:41]	Lurker69	hi
+[2013-01-05 08:46:19] <Lurker69> [08:41]	Lurker69	modem?
+[2013-01-05 08:46:19] <Lurker69> [08:41]	nadando	hhame:O-www.dropbox.com-sem7sgebdhazjs4s-33s
+[2013-01-05 08:46:19] <Lurker69> [08:41]	nadando	use book of law
+[2013-01-05 08:46:19] <Lurker69> [08:41]	nadando	replace spaces
+[2013-01-05 08:46:19] <Lurker69> [08:41]	nadando	use line and character number
+[2013-01-05 08:46:19] <Lurker69> [08:42]	Lurker69	wel link isnt working yet
+[2013-01-05 08:46:19] <Lurker69> [08:42]	Lurker69	sorry i am quite busy atm
+[2013-01-05 08:46:19] <Lurker69> [08:43]	Lurker69	i made another channel, hidden one you can go there ind invite people you want to share this with
+[2013-01-05 08:46:19] <Lurker69> [08:43]	Lurker69	#3301riddle
+[2013-01-05 08:46:19] <Lurker69> [08:45]	Lurker69	did you get link to work
+[2013-01-05 08:46:19] <Lurker69> [08:45]	nadando	no i need to fix my source files
+[2013-01-05 08:46:19] <Lurker69> [08:46]	Lurker69	start posting in that cannel i am logging it
+[2013-01-05 08:46:26] <nadando> ehame:--www.dropbox.com-s-r7sgeb!hazj14s-331
+[2013-01-05 08:47:58] <Lurker69> it looks much pretier
+[2013-01-05 08:58:06] <Lurker69> i am bumpin 4chan threads currently
+[2013-01-05 08:58:34] <Lurker69> damn and i sadi that i wont do anything for cicada regarding recrouting and organizing people
+[2013-01-05 08:58:55] <Lurker69> 	https://www.dropbox.com/s/r7sgeb5dtmzj14s/3301
+[2013-01-05 08:59:10] <nadando> yeah i had that
+[2013-01-05 08:59:18] <nadando> just needed to replace the - and add the 2 numbers
+[2013-01-05 10:29:59] >ChanServ< acess
+[2013-01-05 10:29:59] *ChanServ* Invalid command. Use /msg ChanServ help for a command listing.
+[2013-01-05 10:30:04] >ChanServ< help
+[2013-01-05 10:30:05] *ChanServ* ***** ChanServ Help *****
+[2013-01-05 10:30:05] *ChanServ* ChanServ gives normal users the ability to maintain control
+[2013-01-05 10:30:05] *ChanServ* of a channel, without the need of a bot. Channel takeovers are
+[2013-01-05 10:30:05] *ChanServ* virtually impossible when a channel is registered with ChanServ.
+[2013-01-05 10:30:05] *ChanServ* Registration is a quick and painless process. Once registered,
+[2013-01-05 10:30:05] *ChanServ* the founder can maintain complete and total control over the channel.
+[2013-01-05 10:30:05] *ChanServ* Please note that channels will expire if there are no eligible channel successors.
+[2013-01-05 10:30:05] *ChanServ* Successors are primarily those who have the +R flag
+[2013-01-05 10:30:05] *ChanServ* set on their account in the channel, although other
+[2013-01-05 10:30:05] *ChanServ* people may be chosen depending on their access
+[2013-01-05 10:30:05] *ChanServ* level and activity.
+[2013-01-05 10:30:05] *ChanServ*  
+[2013-01-05 10:30:05] *ChanServ* For more information on a command, type:
+[2013-01-05 10:30:05] *ChanServ* /msg ChanServ help <command>
+[2013-01-05 10:30:05] *ChanServ* For a verbose listing of all commands, type:
+[2013-01-05 10:30:05] *ChanServ* /msg ChanServ help commands
+[2013-01-05 10:30:05] *ChanServ*  
+[2013-01-05 10:30:05] *ChanServ* The following commands are available:
+[2013-01-05 10:30:06] *ChanServ* FLAGS           Manipulates specific permissions on a channel.
+[2013-01-05 10:30:06] *ChanServ* INVITE          Invites you to a channel.
+[2013-01-05 10:30:06] *ChanServ* OP              Gives channel ops to a user.
+[2013-01-05 10:30:06] *ChanServ* RECOVER         Regain control of your channel.
+[2013-01-05 10:30:06] *ChanServ* REGISTER        Registers a channel.
+[2013-01-05 10:30:06] *ChanServ* SET             Sets various control flags.
+[2013-01-05 10:30:06] *ChanServ* UNBAN           Unbans you on a channel.
+[2013-01-05 10:30:06] *ChanServ*  
+[2013-01-05 10:30:06] *ChanServ* Other commands: ACCESS, AKICK, CLEAR, COUNT, DEOP, DEVOICE, 
+[2013-01-05 10:30:06] *ChanServ*                 DROP, GETKEY, HELP, INFO, QUIET, STATUS, 
+[2013-01-05 10:30:06] *ChanServ*                 SYNC, TAXONOMY, TEMPLATE, TOPIC, TOPICAPPEND, 
+[2013-01-05 10:30:06] *ChanServ*                 TOPICPREPEND, UNQUIET, VOICE, WHY
+[2013-01-05 10:30:06] *ChanServ* ***** End of Help *****
+[2013-01-05 10:30:13] >ChanServ< access
+[2013-01-05 10:30:13] *ChanServ* Insufficient parameters for ACCESS.
+[2013-01-05 10:30:14] *ChanServ* Syntax: ACCESS <#channel> ADD|DEL|LIST [nick] [level]
+[2013-01-05 10:30:39] >ChanServ< help access
+[2013-01-05 10:30:39] *ChanServ* ***** ChanServ Help *****
+[2013-01-05 10:30:39] *ChanServ* Help for ACCESS:
+[2013-01-05 10:30:39] *ChanServ*  
+[2013-01-05 10:30:39] *ChanServ* The ACCESS command allows displaying and changing
+[2013-01-05 10:30:39] *ChanServ* privileges on channels.
+[2013-01-05 10:30:39] *ChanServ*  
+[2013-01-05 10:30:39] *ChanServ* The LIST subcommand displays a list of users and
+[2013-01-05 10:30:39] *ChanServ* their privileges.
+[2013-01-05 10:30:40] *ChanServ*  
+[2013-01-05 10:30:40] *ChanServ* Syntax: ACCESS <#channel> LIST
+[2013-01-05 10:30:40] *ChanServ*  
+[2013-01-05 10:30:40] *ChanServ* The ADD subcommand adds a user to the access list
+[2013-01-05 10:30:40] *ChanServ* or changes their privileges if they were already on
+[2013-01-05 10:30:40] *ChanServ* the access list.
+[2013-01-05 10:30:40] *ChanServ*  
+[2013-01-05 10:30:40] *ChanServ* If the level field is specified, it specifies the
+[2013-01-05 10:30:40] *ChanServ* privileges to grant, see the FLAGS and TEMPLATE
+[2013-01-05 10:30:40] *ChanServ* help files. If not, the user will be given
+[2013-01-05 10:30:40] *ChanServ* privileges appropriate for day-to-day management
+[2013-01-05 10:30:40] *ChanServ* of the channel.
+[2013-01-05 10:30:40] *ChanServ*  
+[2013-01-05 10:30:40] *ChanServ* Syntax: ACCESS <#channel> ADD <nickname> [level]
+[2013-01-05 10:30:40] *ChanServ*  
+[2013-01-05 10:30:40] *ChanServ* The DEL subcommand removes a user from the access list.
+[2013-01-05 10:30:40] *ChanServ*  
+[2013-01-05 10:30:40] *ChanServ* Syntax: ACCESS <#channel> DEL <nickname>
+[2013-01-05 10:30:40] *ChanServ*  
+[2013-01-05 10:30:40] *ChanServ* Examples:
+[2013-01-05 10:30:40] *ChanServ*     /msg ChanServ ACCESS #foo LIST
+[2013-01-05 10:30:40] *ChanServ*     /msg ChanServ ACCESS #foo ADD bar OP
+[2013-01-05 10:30:40] *ChanServ*     /msg ChanServ ACCESS #foo DEL bar
+[2013-01-05 10:30:40] *ChanServ*  
+[2013-01-05 10:30:40] *ChanServ* See also: FLAGS, TEMPLATE
+[2013-01-05 10:30:40] *ChanServ* ***** End of Help *****
+[2013-01-05 10:32:03] >ChanServ< access #3301riddle ADD nadando OP
+[2013-01-05 10:32:03] *ChanServ* Invalid template name given, use /msg ChanServ TEMPLATE #3301riddle for a list
+[2013-01-05 10:32:37] >ChanServ< ACCESS #3301riddle ADD nadando OP
+[2013-01-05 10:32:38] *ChanServ* Invalid template name given, use /msg ChanServ TEMPLATE #3301riddle for a list
+[2013-01-05 10:33:11] >ChanServ< ACCESS #3301riddle list
+[2013-01-05 10:33:12] *ChanServ* Entry Nickname/Host          Flags
+[2013-01-05 10:33:12] *ChanServ* ----- ---------------------- -----
+[2013-01-05 10:33:12] *ChanServ* 1     lurker69               +AFRfiorstv [modified 2 hours, 44 minutes, 52 seconds ago]
+[2013-01-05 10:33:12] *ChanServ* ----- ---------------------- -----
+[2013-01-05 10:33:12] *ChanServ* End of #3301riddle FLAGS listing.
+[2013-01-05 10:33:31] >ChanServ< ACCESS #3301riddle add
+[2013-01-05 10:33:32] *ChanServ* Insufficient parameters for ACCESS.
+[2013-01-05 10:33:32] *ChanServ* Syntax: ACCESS <#channel> ADD|DEL <nick> [level]
+[2013-01-05 10:33:51] >ChanServ< ACCESS #3301riddle add nadando op
+[2013-01-05 10:33:51] *ChanServ* Invalid template name given, use /msg ChanServ TEMPLATE #3301riddle for a list
+[2013-01-05 10:34:05] >ChanServ< ACCESS 3301riddle add nadando op
+[2013-01-05 10:34:05] *ChanServ* Invalid parameters for ACCESS.
+[2013-01-05 10:34:06] *ChanServ* Syntax: ACCESS <#channel> ADD|DEL|LIST [nick] [level]
+[2013-01-05 10:34:18] >ChanServ< ACCESS #3301riddle add nadando +op
+[2013-01-05 10:34:18] *ChanServ* Flags +o were set on Nadando in #3301riddle.
+[2013-01-05 10:34:27] >ChanServ< ACCESS #3301riddle list
+[2013-01-05 10:34:28] *ChanServ* Entry Nickname/Host          Flags
+[2013-01-05 10:34:29] *ChanServ* ----- ---------------------- -----
+[2013-01-05 10:34:29] *ChanServ* 1     lurker69               +AFRfiorstv [modified 2 hours, 46 minutes, 8 seconds ago]
+[2013-01-05 10:34:29] *ChanServ* 2     Nadando                +o [modified 9 seconds ago]
+[2013-01-05 10:34:29] *ChanServ* ----- ---------------------- -----
+[2013-01-05 10:34:29] *ChanServ* End of #3301riddle FLAGS listing.
+[2013-01-05 11:04:35] -->| brotherBox (~brother@silenceisdefeat.com) has joined #3301riddle
+[2013-01-05 11:10:05] |<-- nadando has left freenode (Quit: ChatZilla 0.9.89 [Firefox 17.0.1/20121128204232])
+[2013-01-05 12:28:56] >ChanServ< OP #33012013 lurker69
+[2013-01-05 12:29:19] >ChanServ< access list
+[2013-01-05 12:29:19] *ChanServ* Insufficient parameters for ACCESS.
+[2013-01-05 12:29:20] *ChanServ* Syntax: ACCESS <#channel> ADD|DEL|LIST [nick] [level]
+/* 06 January 2013 */
+[2013-01-06 01:35:18] [QUIT] Disconnected from irc://freenode/ (ircs://chat.freenode.net:7000/). [[Reconnect][Reconnect to freenode][reconnect]]
+[2013-01-06 07:01:57] -->| YOU (Lurker69) have joined #3301riddle
+[2013-01-06 07:01:57] =-= Mode #3301riddle +ns by sendak.freenode.net
+[2013-01-06 07:01:57] === [freenode-info] channel trolls and no channel staff around to help? please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+[2013-01-06 07:01:58] =-= Mode #3301riddle -o Lurker69  by services.
+[2013-01-06 07:01:58] === *** Notice -- TS for #3301riddle changed from 1357452102 to 1357368474
+[2013-01-06 07:01:58] =-= Mode #3301riddle +ct-s  by services.
+[2013-01-06 07:01:58] -->| ChanServ (ChanServ@services.) has joined #3301riddle
+[2013-01-06 07:01:58] =-= Mode #3301riddle +o ChanServ  by services.
+[2013-01-06 07:02:09] >ChanServ< access #3301puzzle list
+[2013-01-06 07:02:10] *ChanServ* #3301puzzle is not registered.
+[2013-01-06 07:02:17] >ChanServ< access #3301riddle list
+[2013-01-06 07:02:19] *ChanServ* Entry Nickname/Host          Flags
+[2013-01-06 07:02:19] *ChanServ* ----- ---------------------- -----
+[2013-01-06 07:02:19] *ChanServ* 1     lurker69               +AFRfiorstv [modified 23 hours, 13 minutes, 42 seconds ago]
+[2013-01-06 07:02:19] *ChanServ* 2     Nadando                +o [modified 20 hours, 27 minutes, 43 seconds ago]
+[2013-01-06 07:02:19] *ChanServ* ----- ---------------------- -----
+[2013-01-06 07:02:19] *ChanServ* End of #3301riddle FLAGS listing.
+[2013-01-06 07:02:21] -->| bakpak2hvy (~jacob@ip24-254-164-63.rn.hr.cox.net) has joined #3301riddle
+[2013-01-06 07:02:21] <--| ChanServ has left #3301riddle
+[2013-01-06 07:02:27] <bakpak2hvy> the fuckis going on
+[2013-01-06 07:02:57] <Lurker69> ok
+[2013-01-06 07:03:07] <bakpak2hvy> here?
+[2013-01-06 07:03:12] <Lurker69> if we are here other dont see it on whois lict
+[2013-01-06 07:03:17] <Lurker69> i think so
+[2013-01-06 07:03:28] <bakpak2hvy> Tokachi shows up in whois
+[2013-01-06 07:03:29] <bakpak2hvy> i think
+[2013-01-06 07:03:49] -->| nadando (~nadando@ip24-255-30-187.tc.ph.cox.net) has joined #3301riddle
+[2013-01-06 07:04:01] >ChanServ< ACCESS #3301riddle add bakpak2hvy +O
+[2013-01-06 07:04:02] *ChanServ* Flags +O were set on bakpak2hvy in #3301riddle.
+[2013-01-06 07:04:02] =-= Mode #3301riddle +o bakpak2hvy by ChanServ
+[2013-01-06 07:04:17] >ChanServ< ACCESS #3301riddle add nadando +O
+[2013-01-06 07:04:17] *ChanServ* Flags +O were set on Nadando in #3301riddle.
+[2013-01-06 07:04:17] =-= Mode #3301riddle +o nadando by ChanServ
+[2013-01-06 07:04:28] >ChanServ< ACCESS #3301riddle add Lurker69 +O
+[2013-01-06 07:04:29] *ChanServ* Flags +O were set on lurker69 in #3301riddle.
+[2013-01-06 07:04:29] =-= Mode #3301riddle +o Lurker69 by ChanServ
+[2013-01-06 07:04:49] <Lurker69> it shows on whoislist if you are in it , if you are not thn it doesnt
+[2013-01-06 07:04:58] <Lurker69> but i am not sure about tokachi
+[2013-01-06 07:05:36] <Lurker69> hidden id +i  password protected is +s   not csame thing you can have both or only one
+[2013-01-06 07:07:04] <Lurker69> wrong
+[2013-01-06 07:07:30] <Lurker69> +s is secret or hidden  +i is invite only and +k is key or password
+[2013-01-06 07:07:41] <Lurker69> i and k is both gay if you ask me
+[2013-01-06 07:07:50] <bakpak2hvy> k works
+[2013-01-06 07:37:04] -->| Kenodox (4591f684@gateway/web/freenode/ip.69.145.246.132) has joined #3301riddle
+[2013-01-06 07:37:41] -->| Guest43855 (bbf3f885@gateway/web/freenode/ip.187.243.248.133) has joined #3301riddle
+[2013-01-06 07:37:45] <--| Guest43855 has left #3301riddle
+[2013-01-06 07:42:41] <--| Kenodox has left #3301riddle
+[2013-01-06 07:45:12] <--| nadando has left #3301riddle
+[2013-01-06 07:58:52] -->| qwebirc367192 (6cb5c8cc@gateway/web/freenode/ip.108.181.200.204) has joined #3301riddle
+[2013-01-06 07:58:56] |<-- qwebirc367192 has left freenode (Quit: Page closed)
+[2013-01-06 08:26:58] <bakpak2hvy> alright
+[2013-01-06 08:27:08] <bakpak2hvy> wait
+[2013-01-06 08:27:13] <bakpak2hvy> what is this
+[2013-01-06 08:27:18] <bakpak2hvy> WHERE AM I
+[2013-01-06 08:37:17] |<-- bakpak2hvy has left freenode (Quit: Lost terminal)
+[2013-01-06 19:26:29] <--| YOU (Lurker69) have left #3301riddle
+
